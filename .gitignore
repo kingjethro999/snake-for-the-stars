@@ -1,0 +1,5 @@
+.snake
+snake
+*.o
+*.exe
+.DS_Store
